@@ -1,0 +1,4 @@
+langchain
+langchain-openai==0.1.17
+python-dotenv==1.0.1
+langchain-groq==0.1.6
